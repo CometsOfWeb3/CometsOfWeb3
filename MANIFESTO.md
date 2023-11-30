@@ -1,8 +1,9 @@
-## The Builders' Empowerment Manifesto
+# The Builders' Empowerment Manifesto
 A Pledge to Shape the Future of Technology through Decentralized Innovation
+
 We envision a future where Eastern Europe stands at the forefront of blockchain innovation, leading the charge in empowering builders to redefine the boundaries of technology.
 
-This vision is born from our belief that:
+## This vision is born from our belief that:
 
 - Builders: The Heart of Blockchain's Evolution
 Builders are not just participants but the driving force of blockchain's growth and success. Their insights, creativity, and dedication are what propel this technology forward.
@@ -23,7 +24,7 @@ For a project to truly excel, it must be nurtured with an equal emphasis on both
 The most successful blockchain environments are those where there is a mutual, respectful, and beneficial relationship between the ecosystems and their builders.
 
 
-In pursuit of this vision, we commit to:
+## In pursuit of this vision, we commit to:
 
 - Pioneering Innovation: Pursuing the adoption and development of cutting-edge blockchain technologies. We aim to be at the vanguard, pushing the boundaries of what is possible.
 
