@@ -1,32 +1,33 @@
 # The Builders' Empowerment Manifesto
-A Pledge to Shape the Future of Technology through Decentralized Innovation
+<p> A Pledge to Shape the Future of Technology through Decentralized Innovation<p>
 
 We envision a future where Eastern Europe stands at the forefront of blockchain innovation, leading the charge in empowering builders to redefine the boundaries of technology.
 
 ## This vision is born from our belief that:
 
 - Builders: The Heart of Blockchain's Evolution
-Builders are not just participants but the driving force of blockchain's growth and success. Their insights, creativity, and dedication are what propel this technology forward.
+<p>Builders are not just participants but the driving force of blockchain's growth and success. Their insights, creativity, and dedication are what propel this technology forward.<p>
 
 - Health of the Ecosystem: A Dual Focus
-The vitality of any blockchain ecosystem hinges on addressing the needs and aspirations of both its builders and users. This dual focus is essential for fostering a thriving environment.
+<p>The vitality of any blockchain ecosystem hinges on addressing the needs and aspirations of both its builders and users. This dual focus is essential for fostering a thriving environment.<p>
 
 - Collaboration: Unleashing Collective Potential
-When builders collaborate, sharing their wisdom and experiences, they unlock unprecedented potential. This synergy is the key to groundbreaking innovations.
+<p>When builders collaborate, sharing their wisdom and experiences, they unlock unprecedented potential. This synergy is the key to groundbreaking innovations.<p>
 
 - Informed Building: The Power of Comprehensive Assessment
-A thorough evaluation of all technical options, combined with a holistic view of the ecosystem, is critical for enlightened and effective building.
+<p>A thorough evaluation of all technical options, combined with a holistic view of the ecosystem, is critical for enlightened and effective building.<p>
 
 - Balanced Development: Merging Technical and Business Excellence
-For a project to truly excel, it must be nurtured with an equal emphasis on both technical innovation and strategic business planning.
+<p>For a project to truly excel, it must be nurtured with an equal emphasis on both technical innovation and strategic business planning.<p>
 
 - Symbiosis: Harmonious Relationships Between Ecosystems and Builders
-The most successful blockchain environments are those where there is a mutual, respectful, and beneficial relationship between the ecosystems and their builders.
+<p>The most successful blockchain environments are those where there is a mutual, respectful, and beneficial relationship between the ecosystems and their builders.<p>
 
 
 ## In pursuit of this vision, we commit to:
 
-- Pioneering Innovation: Pursuing the adoption and development of cutting-edge blockchain technologies. We aim to be at the vanguard, pushing the boundaries of what is possible.
+- Pioneering Innovation:
+<p>Pursuing the adoption and development of cutting-edge blockchain technologies. We aim to be at the vanguard, pushing the boundaries of what is possible.<p>
 
 - Inclusivity and Support: Embracing builders from diverse blockchain ecosystems, ensuring that every voice is heard, and every contribution valued. Our strength lies in our diversity.
 
