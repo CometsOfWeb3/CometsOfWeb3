@@ -1,4 +1,4 @@
-# The Builders' Empowerment Manifesto
+# The Comets of Web3 Blockchain Builders' Manifesto
 <p> A Pledge to Shape the Future of Technology through Decentralized Innovation<p>
 
 We envision a future where Eastern Europe stands at the forefront of blockchain innovation, leading the charge in empowering builders to redefine the boundaries of technology.
@@ -9,7 +9,7 @@ We envision a future where Eastern Europe stands at the forefront of blockchain 
   <p>Builders are not just participants but the driving force of blockchain's growth and success. Their insights, creativity, and dedication are what propel this technology forward.<p>
 
 - Health of the Ecosystem: A Dual Focus
-  <p>The vitality of any blockchain ecosystem hinges on addressing the needs and aspirations of both its builders and users. This dual focus is essential for fostering a thriving environment.<p>
+  <p>The vitality of any blockchain ecosystem hinges on addressing the needs and aspirations of both its builders and end users. This dual focus is essential for fostering a thriving environment.<p>
 
 - Collaboration: Unleashing Collective Potential
   <p>When builders collaborate, sharing their wisdom and experiences, they unlock unprecedented potential. This synergy is the key to groundbreaking innovations.<p>
