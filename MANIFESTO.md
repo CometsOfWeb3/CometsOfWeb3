@@ -2,6 +2,10 @@
 <p> A Pledge to Shape the Future of Technology through Decentralized Innovation<p>
 
 We envision a future where Eastern Europe stands at the forefront of blockchain innovation, leading the charge in empowering builders to redefine the boundaries of technology.
+---
+# See our 2025 Report
+https://cometsweb3.space/comets-of-web3-report-2025
+---
 
 ## This vision is born from our belief that:
 
