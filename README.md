@@ -19,8 +19,9 @@ We are a community-driven organization building the blockchain ecosystem across 
 
 ## 📊 Reports
 
-- 📄 [Comets of Web3 — 2025 Annual Report](https://cometsweb3.space/comets-of-web3-report-2025)
+- 📄 [Comets of Web3 - 2025 Annual Report](https://cometsweb3.space/comets-of-web3-report-2025)
 - 📄 [Solana Romanian Ecosystem Report 2025](https://cometsweb3.space/solana-romanian-ecosystem-report-2025)
+- 📄 [Comets of Web3 - 2024 Annual Report](https://cometsweb3.space/comets-2024-report)
 
 ---
 
